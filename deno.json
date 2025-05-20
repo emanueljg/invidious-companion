@@ -36,5 +36,8 @@
   ],
   "fmt": {
     "indentWidth": 4
+  },
+  "compilerOptions": {
+    "rootDir": "/build/source/src"
   }
 }
