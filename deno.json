@@ -38,6 +38,8 @@
     "indentWidth": 4
   },
   "compilerOptions": {
-    "rootDir": "/build/source/src"
+    "include": [
+      "/build/source/src/*"
+    ]
   }
 }
