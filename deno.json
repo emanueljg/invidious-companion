@@ -38,8 +38,5 @@
     "indentWidth": 4
   },
   "compilerOptions": {
-    "include": [
-      "/build/source/src/*"
-    ]
   }
 }
